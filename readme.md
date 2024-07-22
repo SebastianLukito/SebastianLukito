@@ -1,9 +1,5 @@
 # Hi there 👋, I'm Sebastian Lukito
 
-Welcome to my GitHub profile! I'm passionate about coding, mathematics, and creating innovative solutions. Here's a glimpse into my world:
-
-## About Me
-
 ```bash
 def work_life_balance(task: str, mood: str = 'neutral') -> str:
     """
