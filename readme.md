@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Sebastian Lukito
 
-Welcome to my GitHub profile! Here, I love exploring **Python, AI, Web Development, and Data Science**. 🚀 I believe in writing clean and efficient code while maintaining a good balance between work and life. Below is a fun Python snippet to remind us all about that balance! 😃
+Welcome to my GitHub profile! Here, I love exploring **Python, AI, Web Development, and Data Science**.  
+🚀 I believe in writing clean and efficient code while maintaining a good balance between work and life. Below is a fun Python snippet to remind us all about that balance! 😃
 
 ---
 
