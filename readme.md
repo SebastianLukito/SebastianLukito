@@ -41,11 +41,11 @@ def work_life_balance(task: str, mood: str = 'neutral') -> str:
 message = work_life_balance("Complete Python project", "happy")
 print(message)
 ```
-
+---
 #🔥 About Me
-🎓 Informatics Engineering Student @ Universitas Mercubuana
-💻 Passionate about Python, Web Development, and AI
-🛠 Currently working on Machine Learning & Automation Projects
-🌱 Learning Flask, CodeIgniter 3, and Full-Stack Development
-📌 Active in GDSC Mercubuana & Perpustakaan Jalanan Indonesia
-🚀 Aspiring Python Web Developer
+🎓 Informatics Engineering Student @ Universitas Mercubuana  
+💻 Passionate about Python, Web Development, and AI  
+🛠 Currently working on Machine Learning & Automation Projects  
+🌱 Learning Flask, CodeIgniter 3, and Full-Stack Development  
+📌 Active in GDSC Mercubuana & Perpustakaan Jalanan Indonesia  
+🚀 Aspiring Python Web Developer  
